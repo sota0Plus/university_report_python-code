@@ -1,0 +1,2 @@
+# university_report_python-code
+量子機械学習に関するレポート作成で用いたpythonコードです。
